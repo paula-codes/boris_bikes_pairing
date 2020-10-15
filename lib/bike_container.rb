@@ -1,0 +1,3 @@
+def initialize
+  @bikes = []
+end
